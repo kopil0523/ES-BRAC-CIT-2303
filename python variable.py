@@ -12,12 +12,13 @@ There are some standard format for declaring variable: They are camel case, pasc
 
 # camel case variable
 
-firstName = Kopil
+firstName = "Kopil"
 
 # pascal case variable
 
-FirstName = Kopil
+FirstName = "Kopil"
 
 # snake case variable
 
-First_name = Kopil
+First_name = "Kopil"
+
